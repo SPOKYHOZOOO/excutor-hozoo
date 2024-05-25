@@ -1,8 +1,8 @@
  xdg-open "https://www.tiktok.com/@spokyhozoo02?_t=8mdjkbUBedM&_r=1"
+clear
  xdg-open "https://youtube.com/@hozooprojek?si=YRju3QF1zv2P1SDB"
  xdg-open "https://chat.whatsapp.com/LAUoVvlbiTZ52NQtk5N1IR"
  xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
-clear
 progreSh() {
     LR='\033[1;31m'
     LG='\033[1;32m'
