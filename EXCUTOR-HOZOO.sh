@@ -1,4 +1,4 @@
- xdg-open "https://www.tiktok.com/@spokyhozoo02?_t=8mdjkbUBedM&_r=1"
+ xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
 clear
 progreSh() {
     LR='\033[1;31m'
@@ -84,9 +84,7 @@ done
 verify_credentials
 sleep 2
 clear
- xdg-open "https://youtube.com/@hozooprojek?si=YRju3QF1zv2P1SDB"
  xdg-open "https://chat.whatsapp.com/LAUoVvlbiTZ52NQtk5N1IR"
- xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
 sleep 1
 echo -e    "$blue┌─────────────────────────────────────────────────────────────────────────────────┐"
 echo -e  "$purple|            ||| EXUCUTOR SYSTEM UMBRELLA DRAK999||||                             |"   
@@ -105,7 +103,10 @@ echo -e "$purple|$purple\e[31m|[8].SEKEER                      $red|[18].TOOLSV5
 echo -e "$purple|$purple\e[31m|[9].SQL                         $red|[19].OSINT IP                               |"
 echo -e "$purple|$purple\e[31m|[10].OSINT INSTRAGRAM           $red|[20].CRACK FB                               |"
 echo -e "$purple└─$purple─────────────────────────────────────────────────────────────────────────────┘"
-
+echo -e "$red\e[31m┌──────────────────────────────────────────────────────────────────────────────┐"
+echo -e "$purple|$purple\e[31m[UPDATE].   | [GC]|SYSTEM UMBRELLA DRAK999| [SALURAN] SYSTEM UMBRELLA DRAK99.     |
+echo -e "$purple|$purple\e[31m[YOUTUBE].  |SPOKYHOZOO.                  | [TIKTOK]. SPOKYHOZOO02.               |      
+echo -e "$purple└─────────────────────────────────────────────────────────────────────────────┘"
 
 echo
 read -p "└────────────>:" p
@@ -321,3 +322,33 @@ cd HackFB
 chmod +x hack_new.pyc
 python2 hack_new.pyc
 fi
+if [ $p == UPDATE ]
+then
+git clone https://github.com/SPOKYHOZOOO/excutor-hozoo
+cd excutor-hozoo
+chmod +x EXCUTOR-HOZOO.sh
+./EXCUTOR-HOZOO.sh
+if
+
+if [ $p == GC ]
+then
+xdg-open "https://chat.whatsapp.com/LAUoVvlbiTZ52NQtk5N1IR"
+if
+if [ $p == SALURAN]
+then
+xdg-open "https://whatsapp.com/channel/0029VaaZHPAEFeXdrMJa3B3g"
+if
+
+if [ $p == YOUTUBE ]
+then
+xdg-open "https://youtube.com/@hozooprojek?si=w01R7lI6iskmP-_z"
+if
+
+if [ $p == TIKTOK ]
+then
+xdg-open "https://www.tiktok.com/@spokyhozoo02?_t=8meA7S31McS&_r=1"
+if
+
+
+
+
