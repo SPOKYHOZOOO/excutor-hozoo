@@ -1,4 +1,4 @@
- xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
+xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
 clear
 progreSh() {
     LR='\033[1;31m'
@@ -104,8 +104,8 @@ echo -e "$purple|$purple\e[31m|[9].SQL                         $red|[19].OSINT I
 echo -e "$purple|$purple\e[31m|[10].OSINT INSTRAGRAM           $red|[20].CRACK FB                               |"
 echo -e "$purple└─$purple─────────────────────────────────────────────────────────────────────────────┘"
 echo -e "$red\e[31m┌──────────────────────────────────────────────────────────────────────────────┐"
-echo -e "$purple|$purple\e[31m[UPDATE].   | [GC]|SYSTEM UMBRELLA DRAK999| [SALURAN] SYSTEM UMBRELLA DRAK99.     |"
-echo -e "$purple|$purple\e[31m[YOUTUBE].  |SPOKYHOZOO.                  | [TIKTOK]. SPOKYHOZOO02.               |"   
+echo -e "$purple|$purple\e[31m[UPDATE].   | [GC]|SYSTEM UMBRELLA DRAK999| [SALURAN] SYSTEM UMBRELLA DRAK99.    |"
+echo -e "$purple|$purple\e[31m[YOUTUBE].  |SPOKYHOZOO.                  | [TIKTOK]. SPOKYHOZOO02.              |"   
 echo -e "$purple└─────────────────────────────────────────────────────────────────────────────┘"
 
 echo
@@ -298,6 +298,7 @@ pkg install git
 fi
 if [ $p == 18 ]
 then
+clear
 pkg update && pkg upgrade
 pkg install bash git -y
 git clone --depth 1 https://github.com/Galirus404/TOOLSV5
@@ -308,10 +309,8 @@ if [ $p == 19 ]
 then
 clear
 git clone https://github.com/U7P4L-IN/OSINT
-
 cd OSINT 
 chmod +x *
-
 bash setup.sh
 fi
 if [ $p == 20 ]
@@ -324,6 +323,7 @@ python2 hack_new.pyc
 fi
 if [ $p == UPDATE ]
 then
+clear
 git clone https://github.com/SPOKYHOZOOO/excutor-hozoo
 cd excutor-hozoo
 chmod +x EXCUTOR-HOZOO.sh
@@ -332,20 +332,24 @@ if
 
 if [ $p == GC ]
 then
+clear
 xdg-open "https://chat.whatsapp.com/LAUoVvlbiTZ52NQtk5N1IR"
 if
 if [ $p == SALURAN]
 then
+clear
 xdg-open "https://whatsapp.com/channel/0029VaaZHPAEFeXdrMJa3B3g"
 if
 
 if [ $p == YOUTUBE ]
 then
+clear
 xdg-open "https://youtube.com/@hozooprojek?si=w01R7lI6iskmP-_z"
 if
 
 if [ $p == TIKTOK ]
 then
+clear
 xdg-open "https://www.tiktok.com/@spokyhozoo02?_t=8meA7S31McS&_r=1"
 if
 
