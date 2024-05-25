@@ -1,5 +1,5 @@
-xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
 clear
+xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
 progreSh() {
     LR='\033[1;31m'
     LG='\033[1;32m'
