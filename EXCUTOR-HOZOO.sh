@@ -104,8 +104,8 @@ echo -e "$purple|$purple\e[31m|[9].SQL                         $red|[19].OSINT I
 echo -e "$purple|$purple\e[31m|[10].OSINT INSTRAGRAM           $red|[20].CRACK FB                               |"
 echo -e "$purple└─$purple─────────────────────────────────────────────────────────────────────────────┘"
 echo -e "$red\e[31m┌──────────────────────────────────────────────────────────────────────────────┐"
-echo -e "$purple|$purple\e[31m[UPDATE].   | [GC]|SYSTEM UMBRELLA DRAK999| [SALURAN] SYSTEM UMBRELLA DRAK99.     |
-echo -e "$purple|$purple\e[31m[YOUTUBE].  |SPOKYHOZOO.                  | [TIKTOK]. SPOKYHOZOO02.               |      
+echo -e "$purple|$purple\e[31m[UPDATE].   | [GC]|SYSTEM UMBRELLA DRAK999| [SALURAN] SYSTEM UMBRELLA DRAK99.     |"
+echo -e "$purple|$purple\e[31m[YOUTUBE].  |SPOKYHOZOO.                  | [TIKTOK]. SPOKYHOZOO02.               |"   
 echo -e "$purple└─────────────────────────────────────────────────────────────────────────────┘"
 
 echo
