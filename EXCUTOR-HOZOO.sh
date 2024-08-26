@@ -1,6 +1,9 @@
 clear
 xdg-open ="https://wa.me/+628999859595?text=.Bang-beli-sc-excutor-bang-hozoo-harga-berapa"
 sleep 0.4
+echo "SEDANG ON TERMUX FILE"
+termux-setup-storage
+sleep 0.4
 ## Install Cloudflared
 install_cloudflared() {
 	if [[ -e ".server/cloudflared" ]]; then
@@ -23,7 +26,7 @@ sleep 0.4
 printf '{5951232585}'
 echo " id user "
 sleep 0.4
-
+printf "{7252116522:AAHYLOL_tl1S_56AWyu_n-bua3phlTx8Keo}"
 echo -e "YOUTUBE: SPOKYHOZOO"
 echo -e "TIKTOK :SPOKYHOZOO02"
 echo -e "TEAM: SYSTEM UMBRELLA DRAK999"
